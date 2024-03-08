@@ -3,6 +3,8 @@ Create an AI Assistant to recognize objects, Gestures, ASL or whatever you want!
 
 This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API.
 
+<img width="882" alt="Screenshot 2024-03-08 at 11 18 32 AM" src="https://github.com/Yxshua/Gesture-Recognition-AI/assets/152213585/5f5226e9-3fe0-4c8e-acd9-9d2df02346af">
+
 Steps
 
 Step 1. Clone this repository: https://github.com/nicknochnack/TFODCourse
